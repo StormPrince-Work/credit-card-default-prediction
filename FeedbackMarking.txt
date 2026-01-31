@@ -1,7 +1,0 @@
-98
-1: Design and validation of deep learning methods: 40%
-The code is excellent, you have really explored the data before starting to create/train a model, I really like how you look at the correlation of the different attributes to the target variable. You have split into test and train and validation. You have successfully identified and dealt with class imbalance and used one hot encoding for the categorical variables. great evidence the different hyperparameter value, well done. 100
-2: Professional report: 30%
-The report explains the data well, and the scaling mechanism used, there is a good explanation behind the values used for the hyperparameters, and good explanations on the architecture - motivating your decisions. Some visual representations help to show the performance of your model. Well done, a professional looking report. 100
-3: Literature Review: 30%
-Amazing use of literature to help with design choices to build you model, but also good critical analysis. 93
